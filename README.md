@@ -1,4 +1,8 @@
-# Florentine Drawings
+
+# This app is deprecated. The updated ResearchSpace app is available here:
+https://github.com/lklic/florentinedrawings-rs
+
+## Florentine Drawings
 Blacklight Rails app for the Villa I Tatti Drawings of the Florentine Painters Catalog
 
 Make sure you have Ruby 2.2.0 and 4.2.6+ installed
